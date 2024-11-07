@@ -42,11 +42,13 @@ body {
 }
 
 .debugDiv {
-    background-color:burlywood; /*remove*/
+    background-color:burlywood;
+    style="text-align:center";
 }
 
-.mainUI { /* controls the size of the main ui */
+.mainUI
     width: 75%;
+    style="text-align:center";
 }
 
 /* article */
