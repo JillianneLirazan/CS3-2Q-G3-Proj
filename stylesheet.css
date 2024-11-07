@@ -1,6 +1,7 @@
 /* make sure that all elements have their seperate colors so we can debug them if they go haywire. */
 
 body {
+    font-family: 'Arial', sans-serif;
     background-color: blanchedalmond;
      .nav-h3 ul {
             display: flex;
