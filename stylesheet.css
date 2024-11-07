@@ -3,6 +3,15 @@
 body {
     font-family: 'Arial', sans-serif;
     background-color: blanchedalmond;
+    
+    header {
+            background-color: #a8d8e8;
+            color: #ffffff;
+            text-align: center;
+            padding: 20px;
+            position: relative;
+        }
+    
      .nav-h3 ul {
             display: flex;
             justify-content: center;
