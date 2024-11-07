@@ -14,19 +14,19 @@ body {
          
          .nav-h3 a {
             display: block;
-            background:#1E3163;
+            background: white;
             padding: 15px 20px;
             text-align: center;
          }
          
          .nav-h3 a:hover {
-            color: white;
-            background: #1E3163;
+            color: #1E3163;
+            background: white;
          }
          
          a.nav-active5 {
-            color: white;
-            background: #1E3163;
+            color: #1E3163;
+            background: white;
          }
 }
 
