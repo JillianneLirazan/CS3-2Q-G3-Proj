@@ -1,0 +1,46 @@
+/* make sure that all elements have their seperate colors so we can debug them if they go haywire. */
+
+body {
+    background-color: blanchedalmond;
+}
+
+.debugDiv {
+    background-color:burlywood; /*remove*/
+}
+
+.mainUI { /* controls the size of the main ui */
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* article */
+
+article {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.articleElement {
+    background-color: darkkhaki;
+    margin: 5px;
+}
+
+.headerElement {
+    background-color: beige;
+    flex: 1;
+}
+
+.mainSection {
+    flex: 6;
+}
+
+.sideElement {
+    background-color:darksalmon;
+    flex: 3;
+}
+
+/* footer stuff */
+#footerText {
+    text-align: center;
+}
