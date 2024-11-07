@@ -6,10 +6,11 @@ body {
     
     header {
             background-color: #a8d8e8;
-            color: #ffffff;
+            color: #F8F8F8;
             text-align: center;
             padding: 20px;
             position: relative;
+            style = "text-align:center";
         }
     
      .nav-h3 ul {
